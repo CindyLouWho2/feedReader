@@ -8,4 +8,4 @@ You can *[clone](https://github.com/CindyLouWho2/feedReader.git)* or *[download]
 ## How to run the tests
 - Open _index.html_ in your browser
 - Scroll to the bottom of the page to find the specs (you can _Run All_ or _individually_, by clicking on a spec)
-(https://github.com/CindyLouWho2/feedReader.git)
+
